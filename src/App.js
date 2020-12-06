@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="grid-container">
       <header>
-        <a href="/">Online Shopping Store-#</a>
+        <a href="/">Online Shopping Store</a>
       </header>
       <main>Product List</main>
       <footer>All rights reserved </footer>
