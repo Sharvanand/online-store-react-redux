@@ -1,0 +1,27 @@
+-------------------- Auto-Git Log --------------------
+		Sun Dec 06 2020 18:55:47 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-6-11-2020-16-52-6.txt
+* public/images/dress1.jpeg
+* public/images/dress10.jpeg
+* public/images/dress2.jpeg
+* public/images/dress3.jpeg
+* public/images/dress4.jpeg
+* public/images/dress5.jpeg
+* public/images/dress6.jpeg
+* public/images/dress7.jpeg
+* public/images/dress8.jpeg
+* public/images/dress9.jpeg
+
+
+Deleted files:
+
+
+Renamed files:
