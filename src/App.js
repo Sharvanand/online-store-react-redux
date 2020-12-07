@@ -9,7 +9,7 @@ class App extends React.Component{
     this.state = {
       products: data.products,
       size:"",
-      sort:"",
+      sort:""
 
     }
   }
