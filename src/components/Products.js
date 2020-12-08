@@ -13,7 +13,7 @@ export default class Products extends Component {
                         </a>
                         <div className="product-price">
                 <div>{product.price}</div>
-                            <button className="button-primary">Add to the card</button>
+                            <button className="button primary">Add To the Card</button>
                         </div>
                     </div>
                 </li>

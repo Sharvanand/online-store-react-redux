@@ -5,7 +5,7 @@
             "title":"Dress1",
             "image":"/images/dress1.jpeg",
             "description":"About Dress 1",
-            "price":"19",
+            "price":"19.99",
             "availableSizes":["XL","S","M"]
         },
         {
@@ -13,7 +13,7 @@
             "title":"Dress2",
             "image":"/images/dress2.jpeg",
             "description":"About Dress 2",
-            "price":"29",
+            "price":"29.99",
             "availableSizes":["XL","S","M"]
         },
         {
@@ -21,7 +21,7 @@
             "title":"Dress3",
             "image":"./images/dress6.jpeg",
             "description":"About Dress 3",
-            "price":"39",
+            "price":"39.99",
             "availableSizes":["XL","S","M"]
         },
         {
@@ -29,7 +29,7 @@
             "title":"Dress4",
             "image":"/images/dress4.jpeg",
             "description":"About Dress 4",
-            "price":"49",
+            "price":"49.99",
             "availableSizes":["S","M"]
         },
         {
@@ -37,7 +37,7 @@
             "title":"Dress5",
             "image":"/images/dress5.jpeg",
             "description":"About Dress 5",
-            "price":"19",
+            "price":"19.99",
             "availableSizes":["XL","M"]
         },
         {
@@ -45,7 +45,7 @@
             "title":"Dress6",
             "image":"/images/dress7.jpeg",
             "description":"About Dress 6",
-            "price":"23",
+            "price":"24.99",
             "availableSizes":["XL","M"]
         }
     ]
